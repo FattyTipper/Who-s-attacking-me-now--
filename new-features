@@ -13,3 +13,4 @@ Create an alert feature if these are different i.e. breached datdbases and those
 Offer option to grep databases to check this
 Anything else anyone can think off, please just say!
 install GeoIP in installer.sh script - Done by pdm126
+Add heatmap style display for logcheck results
